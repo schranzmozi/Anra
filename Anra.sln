@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Server", "Server\Server.njsproj", "{7C8FA8F9-811F-4498-B3E9-234B85BDE60B}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Client", "Client\Client.njsproj", "{F04A623C-03EF-4E02-883D-A49739A67C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8FA8F9-811F-4498-B3E9-234B85BDE60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8FA8F9-811F-4498-B3E9-234B85BDE60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8FA8F9-811F-4498-B3E9-234B85BDE60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8FA8F9-811F-4498-B3E9-234B85BDE60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04A623C-03EF-4E02-883D-A49739A67C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04A623C-03EF-4E02-883D-A49739A67C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04A623C-03EF-4E02-883D-A49739A67C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04A623C-03EF-4E02-883D-A49739A67C08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
