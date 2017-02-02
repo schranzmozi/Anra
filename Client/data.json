@@ -1,0 +1,6 @@
+﻿[
+  {"id": "1", "name": "Pizza Vegetaria", "price": 5, "count":  0 },
+  {"id": "2", "name": "Pizza Salami",    "price": 5.5, "count":  0 },
+  {"id": "3", "name": "Pizza Thunfisch", "price": 6, "count":  0 },
+  {"id": "4", "name": "Aktueller Flyer", "price": 0, "count":  0 }
+]
